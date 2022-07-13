@@ -31,6 +31,11 @@ No errors were found when passing through the official (jigsaw) validator.
 
 ![w3c](https://user-images.githubusercontent.com/106691587/178759389-8375d01d-4e72-4140-8721-853203eeb3a5.png)
 
+# LightHouse
+
+![Lighthouse](https://user-images.githubusercontent.com/106691587/178762986-c7e23074-5b24-448d-b09f-df1aef694641.png)
+
+
 # Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 
